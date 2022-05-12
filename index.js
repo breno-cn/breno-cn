@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 const term = require('terminal-kit').terminal;
 
 const renderCard = require('./nameCard');
