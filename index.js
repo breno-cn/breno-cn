@@ -1,11 +1,10 @@
 const term = require('terminal-kit').terminal;
 
-//const card = require('./nameCard');
-
-//term.bold(card);
 const renderCard = require('./nameCard');
+const renderProjects = require('./projectCard');
 
 renderCard();
+renderProjects()
 
 term.grabInput();
 term.on('key', (name, matches, data) => {
