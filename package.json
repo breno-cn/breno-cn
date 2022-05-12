@@ -1,0 +1,23 @@
+{
+  "name": "breno-cn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breno-cn/brenocn.git"
+  },
+  "author": "Breno Caldeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breno-cn/brenocn/issues"
+  },
+  "homepage": "https://github.com/breno-cn/brenocn#readme",
+  "dependencies": {
+    "terminal-kit": "^2.4.0"
+  }
+}
