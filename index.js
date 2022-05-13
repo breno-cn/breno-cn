@@ -2,8 +2,8 @@
 
 const term = require('terminal-kit').terminal;
 
-const renderCard = require('./nameCard');
-const renderProjects = require('./projectCard');
+const renderCard = require('./nameCard.js');
+const renderProjects = require('./projectCard.js');
 
 renderCard();
 renderProjects()

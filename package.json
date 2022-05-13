@@ -1,10 +1,10 @@
 {
-  "name": "breno-cn",
-  "version": "1.0.7",
+  "name": "brenocn",
+  "version": "1.0.19",
   "description": "",
   "main": "index.js",
   "bin": "index.js",
-  "files": ["projects.json"],
+  "files": ["projects.json", "*.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
