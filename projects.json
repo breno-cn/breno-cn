@@ -1,7 +1,7 @@
 [
     {
         "name": "chip8",
-        "description": "A simple chip8 implementation",
+        "description": "Simple chip8 implementation",
         "url": "https://github.com/breno-cn/chip8"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "chord-network",
-        "description": "A toy implementation of the chord protocol",
+        "description": "Toy implementation of the chord protocol",
         "url": "https://github.com/breno-cn/SD-entrega-2a"
     }
 ]

@@ -6,7 +6,7 @@ const renderCard = require('./nameCard.js');
 const renderProjects = require('./projectCard.js');
 
 renderCard();
-renderProjects()
+renderProjects();
 
 term.grabInput();
 term.on('key', (name, matches, data) => {
