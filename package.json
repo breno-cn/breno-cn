@@ -1,15 +1,16 @@
 {
   "name": "breno-cn",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breno-cn/brenocn.git"
+    "url": "https://github.com/breno-cn/brenocn.git"
   },
   "author": "Breno Caldeira",
   "license": "ISC",
